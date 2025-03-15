@@ -26,4 +26,4 @@ var compress = function(chars) {
     }
     return write
 };
-
+,
